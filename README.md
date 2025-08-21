@@ -41,8 +41,9 @@
   <img src="https://img.shields.io/badge/-Retool-8A2BE2?style=for-the-badge&logo=retool&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150px" />
-</p>
-</div>
-
+<p align="center"> 
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150px" /> 
+</p> 
+</div> 
+<h2 align="center" > ✨ Obrigada por visitar meu perfil! ╰(*°▽°*)╯ </h2> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=71286f&height=120&section=footer" width="100%"/>
