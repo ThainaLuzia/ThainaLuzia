@@ -36,6 +36,9 @@
   <img src="https://img.shields.io/badge/-Node.js-8A2BE2?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-GDScript-8A2BE2?style=for-the-badge&logo=godot-engine&logoColor=white" />
   <img src="https://img.shields.io/badge/-Figma-8A2BE2?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-n8n-8A2BE2?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-8A2BE2?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Retool-8A2BE2?style=for-the-badge&logo=retool&logoColor=white" />
 </p>
 
 <p align="center">
@@ -43,7 +46,3 @@
 </p>
 </div>
 
-<h2 align="center" 
-  > ✨ Obrigada por visitar meu perfil! 💜 </h2>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=71286f&height=120&section=footer" width="100%"/>
