@@ -20,20 +20,13 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ThainaLuzia&show_icons=true&theme=tokyonight&title_color=71286f&icon_color=71286f&text_color=E6E6FA&bg_color=0D1117" 
-    height="160"
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=thainaluzia&show_icons=true&theme=tokyonight&title_color=71286f&icon_color=71286f&text_color=E6E6FA&bg_color=0D1117&include_all_commits=true&count_private=true&cache_seconds=1800"
+    height="165"
   />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThainaLuzia&layout=compact&theme=tokyonight&title_color=71286f&text_color=E6E6FA&bg_color=0D1117" 
-    height="160"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" 
-    width="160"
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thainaluzia&layout=compact&theme=tokyonight&title_color=71286f&text_color=E6E6FA&bg_color=0D1117&cache_seconds=1800"
+    height="165"
   />
 </p>
 
