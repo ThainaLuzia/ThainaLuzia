@@ -21,12 +21,14 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=thainaluzia&show_icons=true&theme=tokyonight&title_color=71286f&icon_color=71286f&text_color=E6E6FA&bg_color=0D1117&include_all_commits=true&count_private=true&cache_seconds=1800"
-    height="165"
+    src="https://streak-stats.demolab.com?user=ThainaLuzia&theme=tokyonight&ring=71286f&fire=71286f&currStreakLabel=E6E6FA"
   />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thainaluzia&layout=compact&theme=tokyonight&title_color=71286f&text_color=E6E6FA&bg_color=0D1117&cache_seconds=1800"
-    height="165"
+</p>
+
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" 
+    width="160"
   />
 </p>
 
