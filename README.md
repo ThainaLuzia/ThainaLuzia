@@ -71,5 +71,4 @@
   ✨ Obrigada por visitar meu perfil! ╰(*°▽°*)╯
 </h2>
 
-<img 
-  src="https://capsule-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=71286f&height=120&section=footer" width="100%"/>
